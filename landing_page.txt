@@ -1,0 +1,24 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+    </head>
+<body>
+<h1><b>enjoy 15% off your entire purchase</b></h1>
+<table>
+<tr>
+<th>Product Name</th>
+<th>Product Discription</th>
+</tr>
+<tr>
+<td>Hp EliteBook</td>
+<td>core i5 6th generation open box </td>
+</tr>
+<tr>
+<td>Hp Gaming ENVY</td>
+<td>core i5 5th generation 8gb ram</td>
+</tr>
+<tr>
+<td>Acer Aspire</td>
+<td>core i7 6th generation 256 ssd</td>
+</tr>
+</body>

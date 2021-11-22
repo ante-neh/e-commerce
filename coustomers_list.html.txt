@@ -1,0 +1,27 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+    </head>
+<body>
+<table>
+<tr>
+<th>Name</th>
+<th>Age</th>
+<th>Phone Number</th>
+</tr>
+<tr>
+<td>Dagim Assefa</td>
+<th>Anteneh Amare</td>
+<th>Leul Gezahegne</td>
+</tr>
+<tr>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td>0925997285</td>
+<td>0913547723</td>
+<td>0930234567</td>
+</tr>
+</body>

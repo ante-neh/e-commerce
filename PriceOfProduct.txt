@@ -1,0 +1,28 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+    </head>
+<body>
+<h1>here are the orders</h1>
+<table>
+<tr>
+<th>Name Of Product</th>
+<th>Price Of Product</th>
+<th>Phone Number Of Customer</th>
+</tr>
+<tr>
+<td>Hp EliteBook</td>
+<th>19500</td>
+<th>0925997285</td>
+</tr>
+<tr>
+<td>Hp Gaming ENVY</td>
+<td>34500</td>
+<td>0913547723</td>
+</tr>
+<tr>
+<td>Acer Aspire</td>
+<td>28500</td>
+<td>0930234567</td>
+</tr>
+</body>
